@@ -1,2 +1,2 @@
-# web
-Kostenlos Rechtschreibung und Grammatik prüfen.
+# rechtschreibpruefung24.de
+Dieses Repository wird aktuell nur für Issue Tracking genutzt.
